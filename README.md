@@ -73,3 +73,5 @@ https://lnkd.in/gvCeVi5R
 https://lnkd.in/gXWAknxK
 
 A big shout out to Sumit Mittal for this amazing SQL content.
+
+https://www.geeksforgeeks.org/postgresql-create-auto-increment-column-using-serial/
